@@ -47,13 +47,13 @@ public class DeleteUserPagePanel extends javax.swing.JPanel {
         jTable1.setForeground(new java.awt.Color(51, 51, 51));
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
-                {null, null, null, null, null, null, null, null, null, null, null, null},
-                {null, null, null, null, null, null, null, null, null, null, null, null},
-                {null, null, null, null, null, null, null, null, null, null, null, null},
-                {null, null, null, null, null, null, null, null, null, null, null, null}
+                {null, null, null, null, null, null, null, null, null, null, null},
+                {null, null, null, null, null, null, null, null, null, null, null},
+                {null, null, null, null, null, null, null, null, null, null, null},
+                {null, null, null, null, null, null, null, null, null, null, null}
             },
             new String [] {
-                "Account_No", "Name ", "Title 3", "Father_Name", "Date_of_birth", " Gender ", "Address ", " Religion", " Occupation", " Account_type", "Email", " Phone "
+                "Account_No", "Name ", "Father_Name", "Date_of_birth", " Gender ", "Address ", " Religion", " Occupation", " Account_type", "Email", " Phone "
             }
         ));
         jScrollPane1.setViewportView(jTable1);

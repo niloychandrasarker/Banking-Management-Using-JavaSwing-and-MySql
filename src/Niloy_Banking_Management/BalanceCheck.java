@@ -29,7 +29,7 @@ public class BalanceCheck extends javax.swing.JFrame {
         setPreferredSize(new java.awt.Dimension(900, 800));
         getContentPane().setLayout(null);
 
-        BLabel.setFont(new java.awt.Font("Segoe UI", 1, 16));
+        BLabel.setFont(new java.awt.Font("Segoe UI", 1, 14));
         BLabel.setForeground(new java.awt.Color(51, 51, 51));
         getContentPane().add(BLabel);
         BLabel.setBounds(220, 310, 310, 30);
